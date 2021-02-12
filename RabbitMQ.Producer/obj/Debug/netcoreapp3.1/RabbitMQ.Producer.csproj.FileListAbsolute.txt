@@ -1,0 +1,17 @@
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.exe
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.deps.json
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.runtimeconfig.json
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.runtimeconfig.dev.json
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.dll
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.pdb
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.csprojAssemblyReference.cache
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.AssemblyInfoInputs.cache
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.AssemblyInfo.cs
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.csproj.CoreCompileInputs.cache
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.csproj.CopyComplete
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.dll
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.pdb
+C:\Learning\ASP.NETCore\RabbitMQ.Producer\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.genruntimeconfig.cache
