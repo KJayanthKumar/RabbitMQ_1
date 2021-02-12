@@ -2,4 +2,3 @@
 RabbitMQ Single producer and consumer with Queue
 
 
-RabbitMQ Single producer and consumer with Queue
